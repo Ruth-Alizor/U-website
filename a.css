@@ -1,0 +1,739 @@
+.we-are{
+    font-size: 30px;
+
+}
+.topnav{
+    background: linear-gradient(136.15deg, #B1C6E7 0%, rgba(255, 255, 255, 0.7) 100%);
+    height: 100px;
+}
+.topnavelements, .ul, .li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 50px 10px;
+    text-align: center;
+    margin-left: 200px;
+    display: flex;
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+justify-content: space-between;
+
+
+}
+.button{
+    position: absolute;
+    width: 150px;
+    height: 48px;
+    left: 1100px;
+    top: 20px;
+   
+}
+
+
+.h1{
+    /* Expertise & Experience For Best Results !!! */
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 66px;
+margin-top: 200px;
+color: #100F0F;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 30px;
+display: flex;
+}
+.expertise2{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 66px;
+    margin-top: 0px;
+    color: #100F0F;
+    margin-left: 30px;   
+}
+.sub{
+    /* Building Africa’s economy through innovative technology solutions. */
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #000000;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 30px;
+margin-top: -10px;
+}
+.button2{
+    margin-top: 40px; width: 159px; height: 48px;  border-radius: 10px; border: 1px; margin-left: 30px;   
+}
+.pic1{
+    position: absolute;
+width: 656px;
+height: 549px;
+left: 684px;
+top: 235px;
+}
+.whychooseus{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+margin-left: 600px;
+margin-top: 400px;
+}
+.elements{
+    display: flex; 
+    margin-left: 50px; 
+}
+.element1{
+    display: block;
+    
+}
+.element2{
+    display: block;
+    margin-left: 300px
+}
+.element3{
+    display: block;
+    margin-left: 300px
+}
+.element4{
+    display: block;
+    margin-left: 300px
+}
+.pic2{
+    margin-top: 30px;
+    display: flex;
+}
+.we-enable{
+    margin-top:140px; text-align: left; margin-left: 160px; font-size: 18px;
+}
+.software{
+    margin-top: 10px;
+}
+.robotics{
+    margin-left: 200px;
+    margin-top: -80px;
+}
+.blockchain{
+    margin-left: 200px;
+}
+.bluebox{
+    height: 1400px;
+    width: 1350px;
+    margin-left: -10px;
+    background: linear-gradient(136.15deg, #B1C6E7 0%, rgba(255, 255, 255, 0.7) 100%);
+    margin-top: 30px;
+}
+.ouradvantage{
+   font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+text-align: center;
+    
+}
+.solving-problems{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+margin-top: -30px;
+}
+.threeimages{
+    max-width: 100%;
+    margin-left: -25px;
+}
+
+.innovative{
+    position: absolute;
+    left: 100px;
+    top: 2321px;
+    text-align: center;
+}
+.innovative-ideas{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+text-align: center;
+}
+.we-incubate{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+}
+.secure{
+position: absolute;
+left: 536px;
+top: 2315px;
+text-align: center;
+}
+.secure-and-private{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+}
+.security-is{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+
+}
+.highly{
+    position: absolute;
+      left: 1000px;
+      top: 2321px;
+      text-align: center;
+}.highly-skilled{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+}
+.we-combine{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+}
+.two-four-support{
+    position: absolute;
+    left: 90px;
+    top: 2628px;
+    text-align: center;
+    }
+    .two-four-seven{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 44px;   
+    }
+    .our-team{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        text-align: center;
+        
+    }
+    .affordable{
+    position: absolute;
+    left: 536px;
+    top: 2622px;
+    text-align: center;
+    }
+    .affordable-and-simple{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    }
+    .we-have-worked{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    }
+    .strategic{
+        position: absolute;
+        left: 1050px;
+        top: 2628px;
+        text-align: center;
+    }
+    .strategic-collab{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    }
+    .valuing{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    }
+    .engagements{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    margin-top: 30px;
+    }
+    .the-visit{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    }
+    .engagement-pictures{
+        display: flex;
+        margin-top: 50px;
+    }
+    .engagement-one{
+        margin-left: 40px;
+    }
+    .engagement-two{
+        margin-left: 30px;
+    }
+    .our-brands{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    margin-top: 20px;
+    }
+    .we-are{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    height: 22px;
+    
+    }
+    .arrows{
+        display: flex;
+        margin-top: 280px;
+        
+    }
+    .right-arrow{
+        margin-left: 1170px;
+    }
+
+    .boxes{
+        display: flex;
+        margin-top: 500px;
+    }
+    .box-one{
+        position: absolute;
+    width: 450px;
+    height: 611px;
+    left: 250px;
+    top: 3809px;
+    background: linear-gradient(136.15deg, #B1C6E7 0%, rgba(255, 255, 255, 0.7) 100%);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    margin-top: 100px;
+    }
+    .box-two{
+        position: absolute;
+    width: 450px;
+    height: 611px;
+    left: 732px;
+    top: 3809px;
+    background: linear-gradient(136.15deg, #B1C6E7 0%, rgba(255, 255, 255, 0.7) 100%);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    margin-top: 100px;
+    }
+    .stemfocus{
+        position: absolute;
+    text-align: center;
+    left: 100px;
+    top: 54px;
+    background: url(4.png);
+    }
+    .chuksprime{
+        position: absolute;
+        text-align: center;
+        left: 120px;
+        top: 54px;
+        background: url(4.png);  
+    }
+    .stem{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 33px;
+        text-align: center;
+        margin-top: 200px;
+    }
+    .a-robotech{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 50px;
+    
+    }
+    .view-details-button{
+        margin-top: 70px;
+    }
+    .chuksprime-international{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 33px;
+        text-align: center;
+        margin-top: 200px;
+    }
+    .a-leading{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+        text-align: center;
+        margin-top: 50px;   
+    }
+    .view-details-button2{
+        margin-top: 70px;
+    }
+    .partners{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    margin-top: -200px;
+    text-align: center;
+    }
+    .we-partner{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    }
+    .partners-pictures{
+        display: flex;
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+    .feedbacks{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 150px;
+    }
+    .you-will{
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .feedback-box{
+        position: absolute;
+    width: 737px;
+    height: 350px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 350px;
+    }
+    .picture-lady{
+        position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 319px;
+    top: 38px;
+    }
+    .name{
+        position: absolute;
+    left: 328px;
+    top: 162px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    }
+    .feedback-words{
+        position: absolute;
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 200px;
+    left: 180px;
+    }
+    .tiny-circles{
+        margin-top: 400px;
+        align-items: center;
+        display: flex;
+        margin-left: 700px;
+    }
+    .white-circle{
+    margin-left: 10px;
+    }
+    .white-circle2{
+        margin-left: 10px;
+    }
+    .footer{
+        box-sizing: border-box;
+    
+    position: absolute;
+    width: 100%;
+    height: 368px;
+    left: 0px;
+    top: 5401px;
+    background: linear-gradient(136.15deg, #B1C6E7 0%, rgba(255, 255, 255, 0.7) 100%);
+    border: 0.5px solid #ABB3
+    
+    }
+    
+    .uniccon-footer{
+        position: absolute;
+    
+    left: 30px;
+    top: 7px;
+    }
+    
+    .we-combine{
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #535353;
+    text-align: left;
+    }
+    .icons{
+        display: flex;
+        margin-top: 10px;
+    }
+    .linkedin{
+        margin-left: 10px;
+    }
+    .facebook{
+        margin-left: 10px;
+    }
+    .instagram{
+        margin-left: 10px;
+    }
+    .company-footer{
+        margin-left: 350px;
+        margin-top: 30px;
+    }
+    .company{
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    }
+    .privacy-policy{
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #535353;
+    margin-top: 20px;
+    }
+    .t-and-c{
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #535353; 
+        margin-top: 10px;
+    }
+    .contact{
+        margin-top: -95px;
+        margin-left: 600px;
+    }
+    .contact-us{
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    }
+    .phone-icon{
+        display: flex;
+        margin-top: 20px;
+    }
+    .numbers{
+        position: absolute;
+        display: block;
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #535353;
+    margin-left: 35px;
+    margin-top: -30px;
+    }
+    .mail-icon{
+        margin-top: 40px;
+    }
+    .mails{
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #535353;
+    margin-left: 40px;
+    margin-top: -30px;
+    }
+    .website-links{
+        margin-left: 900px;
+        margin-top: -170px;
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #100F0F;
+    }
+    .web-words {
+        margin-top: 20px;
+        margin-left: 900px;
+        text-align: left;
+        text-decoration: none;
+        list-style-type: none;
+        display: block;
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #535353;  
+    }
+    .smart-collections{
+        margin-top: 10px;
+    }
+    .services{
+        margin-top: 10px;
+    }
+    .projects{
+        margin-top: 10px;
+    }
+    .blog{
+        margin-top: 10px;
+    }
+    .about-us{
+        margin-top: 10px;
+    }
+    .location{
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #181918;
+    margin-left: 1150px;
+    margin-top: -200px;
+    
+    }
+    .address{
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #535353;
+    margin-left: 1150px;
+    margin-top: 20px;
+    }
+    .address2{
+        font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #535353;
+    margin-left: 1150px;
+    margin-top: 20px;
+    }
+    .line{
+        position: absolute;
+    width: 1100px;
+    height: 0px;
+    left: 102px;
+    top: 264px;
+border: 1px solid #ABB3B7;
+}
+.copyright{
+    left: 617px;
+margin-top: 100px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-align: center;
+color: #535353;
+mix-blend-mode: normal;
+}
+
+
+
+@media screen and (max-width: 600px){
+    .topnav{
+    /* width: 256px;
+    height: 380px;
+    left: 99px;
+    top: 54px;
+    background-color: white;
+    border: 2px; */
+    display: none; 
+    }
+
+
+
+}
